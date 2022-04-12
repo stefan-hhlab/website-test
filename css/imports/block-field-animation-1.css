@@ -1,0 +1,60 @@
+.pf-animation__text h2 {
+  padding-bottom: 1rem;
+}
+.pf-animation__text p {
+  font-size: calc(4rem/3);
+}
+
+.pf-animation__media img {
+  position: absolute;
+}
+.pf-animation__media {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+@media screen and (max-width: 699px) {
+  .pf-animation__media {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50vh;
+    padding: 1rem;
+  }
+  .pf-animation__text {
+    padding: 8rem 0;
+  }
+  .pf-animation__media img {
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .pf-animation .container {
+    display: flex;
+  }
+  .pf-animation__texts {
+    order: 1;
+    width: 40%;
+    padding-right: 2rem;
+    box-sizing: content-box;
+  }
+  .pf-animation__text {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .pf-animation__media {
+    height: 100vh;
+    order: 2;
+    width: 60%;
+  }
+  .pf-animation__media img {
+    right: 0;
+    top: 50%;
+    margin-top: -50%;
+  }
+}

@@ -1,0 +1,10 @@
+.block-hero-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-background);
+  background-position: center;
+  background-size: cover;
+  color: var(--color-white);
+}
