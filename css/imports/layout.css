@@ -29,7 +29,7 @@
   background: none repeat scroll 0% 0% rgb(0, 184, 114);
   color: var(--color-white) !important;
   display: block;
-  font-family: "PT Root UI";
+  /*font-family: "PT Root UI";*/
   font-size: calc(5rem/6);
   font-weight: 400;
   padding: 8px 150px;

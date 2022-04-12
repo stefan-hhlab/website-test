@@ -45,7 +45,7 @@
 @import "imports/fa-solid.css";
 
 html {
-  font-family: var(--font-family-sans);
+  /*font-family: var(--font-family-sans);*/
   font-size: 18px;
   scroll-behavior: smooth;
 }

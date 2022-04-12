@@ -7,7 +7,7 @@ h3, h4, h5, h6, strong, button {
 }
 
 h1, h2 {
-  font-family: var(--font-family-serif);
+  /*font-family: var(--font-family-serif);*/
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 
 h1 span.light,
 h2 span.light {
-  font-family: var(--font-family-sans);
+  /*font-family: var(--font-family-sans);*/
   font-weight: 300;
   letter-spacing: -0.1rem;
 }
