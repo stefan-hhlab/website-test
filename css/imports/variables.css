@@ -12,14 +12,12 @@
   --color-gray-2: #aaaaaa;
   --color-gray-3: #cccccc;
   --color-primary: rgb(56, 90, 241);
+  --color-primary-1: #1BC2A8;
+  --color-primary-2: #024B4B;
   --color-highlight: rgba(75, 120, 255, 0.67);
   --color-complementary-1: rgb(255, 205, 75);
   --color-complementary-2: rgb(178, 134, 17);
 
   --color-background: var(--color-highlight);
   --background-blend: multiply;
-
-  /* Fonts */
-  --font-family-sans: 'PT Root UI', -apple-system, system-ui, "Roboto", "Helvetica Neue", sans-serif;
-  --font-family-serif: "Source Serif Pro", "Times", "Times New Roman", serif;
 }

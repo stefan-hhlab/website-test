@@ -1,5 +1,5 @@
 .block-hero-2 {
-  --text: var(--color-primary);
+  --text: var(--color-primary-1);
   color: var(--text);
   padding-top: 4rem;
   padding-bottom: 2rem;

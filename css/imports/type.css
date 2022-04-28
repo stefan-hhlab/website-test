@@ -6,20 +6,16 @@ h3, h4, h5, h6, strong, button {
   letter-spacing: 0;
 }
 
-h1, h2 {
-  /*font-family: var(--font-family-serif);*/
-}
-
 h1 {
   font-size: 3rem;
   font-weight: 700;
   letter-spacing: -0.1rem;
   line-height: 1;
+  color: var(--color-primary-1);
 }
 
 h1 span.light,
 h2 span.light {
-  /*font-family: var(--font-family-sans);*/
   font-weight: 300;
   letter-spacing: -0.1rem;
 }
@@ -29,18 +25,20 @@ h2 {
   font-weight: 700;
   letter-spacing: -0.05rem;
   line-height: calc(7/6);
+  color: var(--color-primary-1);
 }
 
 h3 {
   font-size: 1rem;
   font-weight: 700;
   line-height: calc(4/3);
+  color: var(--color-primary-1);
 }
 
 p {
   font-size: 1rem;
   font-weight: normal;
-  color: var(--color-black-2);
+  color: var(--color-primary-2);
   line-height: calc(4/3);
 }
 
@@ -52,7 +50,7 @@ ul {
 }
 
 a, a:visited {
-  color: var(--color-primary);
+  color: var(--color-primary-1);
   text-decoration: none;
 }
 

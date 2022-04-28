@@ -1,18 +1,23 @@
 .pf-animation__text h2 {
   padding-bottom: 1rem;
 }
+
 .pf-animation__text p {
   font-size: calc(4rem/3);
 }
 
 .pf-animation__media img {
   position: absolute;
+  width: 100%;
+  background: white;
 }
+
 .pf-animation__media {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
 }
+
 @media screen and (max-width: 699px) {
   .pf-animation__media {
     top: 0;

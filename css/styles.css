@@ -45,22 +45,21 @@
 @import "imports/fa-solid.css";
 
 html {
-  /*font-family: var(--font-family-sans);*/
   font-size: 18px;
   scroll-behavior: smooth;
 }
 
 *::-moz-selection {
-  background: var(--color-primary);
-  color: var(--color-white-1);
+  background: var(--color-primary-1);
+  color: var(--color-white);
 }
 
 *::-webkit-selection {
-  background: var(--color-primary);
-  color: var(--color-white-1);
+  background: var(--color-primary-1);
+  color: var(--color-white);
 }
 
 *::selection {
-  background: var(--color-primary);
-  color: var(--color-white-1);
+  background: var(--color-primary-1);
+  color: var(--color-white);
 }
