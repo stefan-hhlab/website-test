@@ -4,6 +4,7 @@
   align-items: center;
   justify-content: center;
   background-color: var(--color-background);
+  background-color: var(--color-primary-1);
   background-position: center;
   background-size: cover;
   color: var(--color-white);

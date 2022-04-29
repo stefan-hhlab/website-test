@@ -6,6 +6,12 @@
   font-size: calc(4rem/3);
 }
 
+.pf-animation__text ul {
+  font-size: calc(4rem/3);
+  color: var(--color-primary-2);
+  margin-left: 26px;
+}
+
 .pf-animation__media img {
   position: absolute;
   width: 100%;
