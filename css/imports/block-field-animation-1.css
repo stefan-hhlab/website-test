@@ -55,7 +55,9 @@
   #step-9,
   #step-12,
   #step-14 {
-    display: none;
+    /*display: none;*/
+    height: 0px;
+    padding: 0;
   }
   #step-16 {
     padding-bottom: 30px;
