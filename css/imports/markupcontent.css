@@ -33,9 +33,7 @@
 .markupcontent ul {
   margin: 0 0 1rem 0;
   padding: 0 1rem;
-}
-.markupcontent li {
-  list-style-position: inside;
+  color: var(--color-primary-2);
 }
 
 @media screen and (max-width: 699px) {
