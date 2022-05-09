@@ -79,6 +79,7 @@
     opacity: 0.75;
   }
 
+  /*
   .block-feature-list-1 + .block-feature-list-1 + .block-feature-list-1 .features .column.media {
     flex: 0 0 30px;
   }
@@ -87,6 +88,7 @@
     flex: 0 0 calc(100% - 0.5rem - 30px);
     margin: 0 0 0 0.5rem;
   }
+  */
 
   .block-feature-list-1 .features .column.media img {
     max-width: 100%;
