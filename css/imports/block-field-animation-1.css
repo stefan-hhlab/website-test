@@ -45,6 +45,9 @@
     padding: 8rem 0;
     padding: 20px 0;
   }
+  .pf-animation__text ul li {
+    margin-top: 12px;
+  }
   .pf-animation__media img {
     top: 0;
     left: 0;
@@ -98,6 +101,9 @@
   .pf-animation__text2_third {
     min-height: 17vh;
     justify-content: end;
+  }
+  .pf-animation__text ul li {
+    margin-top: 16px;
   }
   .pf-animation__media {
     height: 100vh;
