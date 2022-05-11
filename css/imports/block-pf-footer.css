@@ -96,6 +96,9 @@
   }
 }
 
+.block-pf-footer__logo img {
+  height: 1.5rem;
+}
 
 @media screen and (max-width: 699px) {
   .block-pf-footer {
@@ -107,19 +110,8 @@
   }
 }
 
-@media screen and (max-width: 960px and min-width: 700px) {
-   .block-pf-footer__logo img {
-    width: 2.5rem;
-    height: 2rem;
-    object-fit: cover;
-    object-position: 0;
-    margin-left: 0;
-  }
-}
-
 @media screen and (min-width: 700px) {
   .block-pf-footer__logo img {
-    width: 100%;
     margin-left: calc(-10rem/3);
     margin-top: -0.15rem;
   }
