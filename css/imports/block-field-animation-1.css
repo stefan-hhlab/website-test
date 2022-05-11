@@ -65,9 +65,6 @@
 }
 
 @media screen and (min-width: 700px) {
-  .block.pf-animation {
-    padding-top: 0;
-  }
   .pf-animation .container {
     display: flex;
   }
