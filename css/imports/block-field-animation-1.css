@@ -45,6 +45,11 @@
     padding: 8rem 0;
     padding: 20px 0;
   }
+  .pf-animation__text p,
+  .pf-animation__text2 p,
+  .pf-animation__text ul {
+    font-size: calc(7rem/6);
+  }
   .pf-animation__text ul li {
     margin-top: 12px;
   }
@@ -101,6 +106,11 @@
   .pf-animation__text2_third {
     min-height: 17vh;
     justify-content: end;
+  }
+  .pf-animation__text p,
+  .pf-animation__text2 p,
+  .pf-animation__text ul {
+    font-size: calc(4.5rem/3);
   }
   .pf-animation__text ul li {
     margin-top: 16px;
