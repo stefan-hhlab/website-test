@@ -100,11 +100,13 @@
     justify-content: center;
   }
   .pf-animation__text2_second {
-    min-height: 18vh;
+    /*min-height: 18vh;*/
+    min-height: 22vh;
     justify-content: end;
   }
   .pf-animation__text2_third {
-    min-height: 17vh;
+    /*min-height: 17vh;*/
+    min-height: 13vh;
     justify-content: end;
   }
   .pf-animation__text p,
